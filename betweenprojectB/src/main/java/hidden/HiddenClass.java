@@ -1,0 +1,4 @@
+package hidden;
+
+class HiddenClass {
+}

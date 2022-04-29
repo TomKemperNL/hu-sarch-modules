@@ -1,0 +1,3 @@
+module betweenmodulesC {
+    requires betweenmodulesB;
+}

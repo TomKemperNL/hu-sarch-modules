@@ -1,0 +1,12 @@
+<project>
+    <modelVersion>4.0.0</modelVersion>
+
+    <artifactId>betweenmodulesA</artifactId>
+    <version>1</version>
+
+    <parent>
+        <groupId>nl.hu.sarch</groupId>
+        <artifactId>modules</artifactId>
+        <version>1</version>
+    </parent>
+</project>

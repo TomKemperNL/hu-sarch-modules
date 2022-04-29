@@ -1,0 +1,3 @@
+module betweenmodulesA {
+    exports betweenmodulesA;
+}
